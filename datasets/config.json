@@ -1,0 +1,1 @@
+{"categorical": ["ADDRESSLINE1", "CITY", "STATE", "POSTALCODE", "COUNTRY"], "numerical": ["QUANTITYORDERED", "PRICEEACH"]}
